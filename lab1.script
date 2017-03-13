@@ -1,0 +1,12 @@
+命令稿啟動於 2017年03月13日 (週一) 18時10分00秒
+]0;wu_yu_chen@wu-yu-chen: ~/My_Githubwu_yu_chen@wu-yu-chen:~/My_Github$ wo[Ko[Kho am[K[K[Kami;pwd
+wu_yu_chen
+/home/wu_yu_chen/My_Github
+]0;wu_yu_chen@wu-yu-chen: ~/My_Githubwu_yu_chen@wu-yu-chen:~/My_Github$ git clone https://github.com/sphxinestar/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+]0;wu_yu_chen@wu-yu-chen: ~/My_Githubwu_yu_chen@wu-yu-chen:~/My_Github$ exit
+
+命令稿已於 2017年03月13日 (週一) 18時10分56秒
+ 完成
